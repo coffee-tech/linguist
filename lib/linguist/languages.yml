@@ -245,6 +245,8 @@ Clojure:
   extensions:
   - .clj
   - .cljs
+  - .cljx
+  - .cl2
 
 CoffeeScript:
   type: programming
